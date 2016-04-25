@@ -130,13 +130,17 @@ Beside the official version of these Terms of Service, we have put a simplified 
 
 5.9 Only one promotional code is permitted per customer, and may be redeemed only by “new users,” defined as users who are within 30 days of launching their first Droplet.
 
-## Referral Credit
+## Other Credit
 
-5.10 Earned credit from making a referral is limited to 12 months from the date of issue (unless otherwise stated), at which time the credit will expire. All referral payouts will be paid in DigitalOcean credit.
+5.10 Earned credit from making a referral will expire after 12 consecutive inactive months. An inactive month is a month without an invoice billing event. All referral payouts will be paid in DigitalOcean credit.
 
-5.11 Sign-up credit earned via referral will expire in accordance with the terms stated in section
+5.11 Sign-up credit earned via referral will expire in accordance with the terms stated in section 5.8.
 
-5.12\. Furthermore, such credit will be counted as the one promotional code permitted, in accordance with the terms stated in section 5.9.
+5.12 Furthermore, sign-up credit earned via referral credit will be counted as the one promotional code permitted, in accordance with the terms stated in section 5.9.
+
+5.13 SLA credit will expire after 12 consecutive inactive months. An inactive month is a month without an invoice billing event.
+
+5.14 Credits not explicitly stated in 5.10-5.14 are to be considered promotional credit.
 
 ## 6\. Warranty Disclaimer and Beta Services
 

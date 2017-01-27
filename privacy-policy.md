@@ -176,9 +176,9 @@ In compliance with the EU-U.S. Privacy Shield Principles, DigitalOcean commits t
 
 ### Dispute Resolution
 
-If a complaint cannot be resolved with DigitalOcean directly, DigitalOcean has agreed to cooperate with EU data protection authorities (DPAs) and complies with the advice provided to it by an informal panel of DPAs in relation to such unresolved complaints. Please contact us at <legal@digitalocean.com> to be directed to the relevant DPA contacts.
+If a complaint cannot be resolved with DigitalOcean directly, DigitalOcean has agreed to cooperate with JAMS. If you are not satisfied with the resolution of your complaint, please contact JAMS at [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) to address complaints.
 
-If a complaint or dispute cannot be resolved by DigitalOcean you may, under limited circumstances, invoke binding arbitration through JAMS.
+You may, under limited circumstances, invoke binding arbitration for complaints not resolved by the above mechanisms. Additional information can be found at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 DigitalOcean is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) with regards to our compliance with the EU – U.S. Privacy Shield.
 
@@ -190,5 +190,5 @@ Please note the name of the Site or other online resource to which you provided 
 
 ## Effective Date
 
-This Privacy Policy became effective on: October 3, 2016.
-©2016 DigitalOcean, Inc. All rights reserved.
+This Privacy Policy became effective on: January 27, 2017.
+©2017 DigitalOcean, Inc. All rights reserved.

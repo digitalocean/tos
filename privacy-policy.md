@@ -52,6 +52,18 @@ We use third party payment processing companies ("Payment Processors") who colle
 
 * Generally, the Services may automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
+### Information Collected from Droplets:
+
+* As one of our many Services, we provide a Droplet feature, which is a virtual private server. You can enable certain enhanced monitoring metrics on your Droplet by installing software automatically when you create your Droplet by selecting Monitoring on your cloud console or API, or by installing the software on your Droplet manually at any time. More information can be found in our Monitoring guide.
+
+* This monitoring software collects information, such as CPU, disk, and memory usage, as well as processes and services that run on your Droplet. You can use this data about your Droplet to view metrics and track performance of your Droplet. We may use data gathered from the Droplets to help us improve our products and services and to develop future products and services. We may use Aggregate Information (as defined below) collected from Droplets for marketing purposes.
+
+* If the “Monitoring” check box is selected, then the monitoring software will be installed by default on your Droplet. If you do not wish to install this monitoring software on your Droplet, make sure that the monitoring checkbox is not checked during the creation of the Droplet, or specify it accordingly in the API.
+
+* Droplet monitoring preferences can only be modified by the person/entity that created and otherwise controls the Droplet.
+
+* You can uninstall this monitoring software from your Droplet at any time by removing the package using the native package manager.  For more information about how to install or uninstall this monitoring software on your Droplet, please click [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-the-digitalocean-agent-for-additional-droplet-graphs).
+
 ### Information Collected Using Cookies:
 
 * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. To collect this information, when you visit our Site, a "cookie" may be set on your computer. Cookies contain a small amount of information that allows our web servers to recognize you whenever you visit. We store information that we collect through cookies, log files and/or clear gifs to create "settings" regarding your preferences.

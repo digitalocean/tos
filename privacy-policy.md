@@ -56,7 +56,7 @@ We use third party payment processing companies ("Payment Processors") who colle
 
 * As one of our many Services, we provide a Droplet feature, which is a virtual private server. You can enable certain enhanced monitoring metrics on your Droplet by installing software automatically when you create your Droplet by selecting Monitoring on your cloud console or API, or by installing the software on your Droplet manually at any time. More information can be found in our Monitoring guide.
 
-* This monitoring software collects information, such as CPU, disk, and memory usage, as well as processes and services that run on your Droplet. You can use this data about your Droplet to view metrics and track performance of your Droplet. We may use data gathered from the Droplets to help us improve our products and services and to develop future products and services. We may use Aggregate Information (as defined below) collected from Droplets for marketing purposes.
+* This monitoring software collects information about CPU, disk, bandwidth, and memory usage as well as other system-level data and metrics about processes and services that run on your Droplet. You can use this data about your Droplet to view metrics and track performance of your Droplet. We may use data gathered from the Droplets to help us improve our products and services and to develop future products and services. We may use Aggregate Information (as defined below) collected from Droplets for marketing purposes.
 
 * If the “Monitoring” check box is selected, then the monitoring software will be installed by default on your Droplet. If you do not wish to install this monitoring software on your Droplet, make sure that the monitoring checkbox is not checked during the creation of the Droplet, or specify it accordingly in the API.
 
@@ -202,5 +202,5 @@ Please note the name of the Site or other online resource to which you provided 
 
 ## Effective Date
 
-This Privacy Policy became effective on: January 27, 2017.
+This Privacy Policy became effective on: March 30, 2017.
 ©2017 DigitalOcean, Inc. All rights reserved.

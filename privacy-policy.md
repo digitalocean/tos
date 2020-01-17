@@ -1,10 +1,14 @@
 # Privacy Policy
 
+Last updated: December 31, 2019
+
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates ("DigitalOcean," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
+
+If you are looking for CCPA-specific information, check out our [CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice/) as well, which is incorporated into this Privacy Policy.
 
 We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including: (i) information you provide through your user account on the Services (your "Account") if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
 
-We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or DigitalOcean's data collection, use, and disclosure practices, please contact us at [privacy@digitalocean.com](mailto:[privacy@digitalocean.com)
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or DigitalOcean's data collection, use, and disclosure practices, please contact us at [privacy@digitalocean.com](mailto:privacy@digitalocean.com)
 
 # 1. INFORMATION WE COLLECT
 
@@ -136,7 +140,13 @@ __**EU-U.S. and Swiss-U.S. Privacy Shield.**__ For personal data we receive from
 
 To access the Privacy Shield List and to find details of our certification, please visit: [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-Contact Us
+# Contact Us
+
 If you have any questions or concerns about this Privacy Policy, please feel free to email us at [privacy@digitalocean.com](mailto:privacy@digitalocean.com).
 
 The data controller of your personal information is DigitalOcean, LLC.
+
+# Additional Disclosures
+
+[CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice/)
+

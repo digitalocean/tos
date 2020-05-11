@@ -112,8 +112,8 @@ By continuing to access or use our Service after any revisions become effective,
 
 If you have any questions about these Terms, please contact us.
 
-*Scotch.io, LLC
-618 Redruth Dr
-Las Vegas, NV 89178
-USA
-chris@scotch.io*
+*Scotch.io, LLC*
+*618 Redruth Dr*
+*Las Vegas, NV 89178*
+*USA*
+*chris@scotch.io*

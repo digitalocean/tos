@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: December 31, 2019
+Last updated: July 31, 2020
 
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates ("DigitalOcean," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
 
@@ -136,9 +136,9 @@ This Privacy Policy may be modified from time to time, so please review it frequ
 
 DigitalOcean is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
 
-__**EU-U.S. and Swiss-U.S. Privacy Shield.**__ For personal data we receive from the EEA and Switzerland, DigitalOcean has certified its compliance to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from such countries. For more information on our Privacy Shield certification, please see our [Privacy Shield Notice](https://www.digitalocean.com/security/privacy-shield/).
+__**EU-U.S. and Swiss-U.S. Privacy Shield.**__ For personal data we receive from the EEA and Switzerland, DigitalOcean has certified its compliance to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from such countries. To access the Privacy Shield List and to find details of our certification, please visit: [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-To access the Privacy Shield List and to find details of our certification, please visit: [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+DigitalOcean currently utilizes [Standard Contractual Clauses](https://www-static.cdn.prismic.io/www-static/4578633e-ba6b-4c45-845c-1e69848c6e3b_DigitalOcean+SCC+Template.pdf) in connection with transfers of data from the EEA to the US insofar as the EU-US Privacy Shield is deemed invalidated and other means are not yet in place. Please also refer to our [GDPR FAQ](https://www.digitalocean.com/legal/gdpr-faq/) and [Data Processing Agreement](https://www.digitalocean.com/legal/data-processing-agreement/) for more information about data transfers.
 
 # Contact Us
 

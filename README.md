@@ -1,3 +1,5 @@
-## DigitalOcean Terms of Service
-
-This repository contains a copy of DigitalOcean's Terms of Service agreement. We are providing it here in order to make it simple for our community to see how and when changes are made. The canonical location for this document is on [the DigitalOcean web site](https://www.digitalocean.com/legal/terms/).
+# DigitalOcean Terms of Service
+ 
+This repository is no longer updated, please see <https://www.digitalocean.com/legal> for our current Terms of Service, Privacy Policy, and other terms applicable to the use of DigitalOcean Services.
+ 
+Previous versions of the terms can be found at the link listed above.
